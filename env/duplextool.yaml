@@ -1,0 +1,10 @@
+name: duplextools
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - python=3.7
+  - pip
+  - pip:
+    - duplex-tools==0.2.7

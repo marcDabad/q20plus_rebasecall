@@ -1,0 +1,16 @@
+name: minionqc
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r
+  - r-ggplot2
+  - r-viridis
+  - r-plyr
+  - r-reshape2
+  - r-readr
+  - r-yaml
+  - r-scales
+  - r-futile.logger
+  - r-data.table
+  - r-optparse

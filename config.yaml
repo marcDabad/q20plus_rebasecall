@@ -1,0 +1,16 @@
+Flowcell_id: "flowcell"
+RawData: "path_raw_data"
+modelFile: "model"
+modelPath: "/path/to/data/model"
+cuda: "cuda:1"
+firstCall:
+  gpu_runners: 20
+secondCall:
+  gpu_runners: 20
+bin:
+  guppy_bin: "/path/guppy/bin"
+  guppy_duplex_bin: "/path/guppyduplex/bin"
+  duplex_tool: "/path/duplextool"
+  minionqc: "/path/minionqc"
+  fastq_merge_bin: "/path/fastq_merge/bin"
+  
