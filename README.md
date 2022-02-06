@@ -8,7 +8,7 @@ It does simplex + 2 step duplex_tools + duplex call + MinIONQC.R
 - [Conda](https://docs.conda.io/en/latest/) or [Mamba](https://github.com/mamba-org/mamba)
 - [Snakemake](https://snakemake.github.io/) 
 - [Guppy](https://community.nanoporetech.com/)
-- Fastq_merge
+- [Fastq_merge] (https://github.com/heathsc/fastq_merge)
 - [minion_qc ]( https://github.com/roblanf/minion_qc )
 
 ## Config file
